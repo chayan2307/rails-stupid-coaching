@@ -13,3 +13,44 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  margin-left: 20px;
+}
+
+label {
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+form {
+  margin-left: 20px;
+  width: 800px;
+}
+
+form #butt {
+  width: 60px;
+  background-color: lightblue;
+  height: 40px;
+  margin-left: 0px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: medium;
+}
+
+form #box {
+  width: 400px;
+  height: 40px;
+  margin-right: 0px;
+  border-radius: 5px;
+}
+
+.link {
+  border-left: 10px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.lay-out {
+  margin-left: 20px;
+}
